@@ -11,7 +11,7 @@ The requirements are as follows:
 - After eating, they will sleep for a different amount of time.
 - Upon waking up, they will begin thinking.
 - If any philosopher dies, the program terminates.
-- Optionally, after each philosopher has eaten a certain amount of meals, the terminates.
+- Optionally, after each philosopher has eaten a certain amount of meals, the program terminates.
 
 You must keep the philosophers alive as long as possible, or until they've all eaten their required meals.
 
